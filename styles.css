@@ -1,0 +1,85 @@
+#title {
+    background-color: #3B3486;
+    color: white;
+    padding: 0 10% 7%;
+    line-height: 1.5;
+
+}
+
+#features {
+    padding: 7% 10% 6%;
+    line-height: 1.5;
+}
+
+#app {
+    padding: 7% 15%;
+}
+
+#testimonials {
+
+    background-color: #3B3486;
+    color: white;
+    line-height: 1.5;
+}
+
+#pricing {
+    background-color: #3B3486;
+    padding: 7% 15%;
+    line-height: 1.5;
+}
+
+#cta {
+    padding: 7% 15%;
+}
+
+.testimonial-img {
+    border-radius: 9999px;
+}
+
+
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3.25rem;
+}
+
+h2 {
+    font-family: 'Montserrat', 'sans-serif';
+    font-weight: 600;
+    font-size: 2.5rem;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+footer {
+    background-color: #3B3486;
+    padding: 7% 15%;
+    color: white;
+}
+
+.navbar {
+    padding-bottom: 50px;
+}
+
+.btn {
+    font-family: 'Ubuntu';
+    padding: 12px 24px;
+
+    font-size: medium;
+}
+
+.row {
+    grid-row-gap: 50px;
+}
+
+.fa-brands:hover {
+    color: green;
+}
